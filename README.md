@@ -1,3 +1,3 @@
 # Rock-Paper-Scissor
-This is Rock Paper scissor game
-Author Pradip
+This is Rock Paper scissor game<br>
+Author-Pradip
